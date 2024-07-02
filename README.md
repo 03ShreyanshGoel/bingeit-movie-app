@@ -1,2 +1,8 @@
-# bingeit-movie-app
-BingeIt is a feature-rich Netflix clone designed to provide an immersive streaming experience. This project showcases modern web development technologies like- React.JS, and Firebase, to mimic design and functionality of Netflix.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
